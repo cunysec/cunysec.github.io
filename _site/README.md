@@ -7,4 +7,4 @@ This is the landing page for people interested in CUNYsec. The site is built wit
 * Implement Disqus for comments?
 * Should we utilize Meetup for our meetings?
 
-Note: #004F97
+Note: Borders = #004F97 Headings = #240099

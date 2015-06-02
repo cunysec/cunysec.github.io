@@ -4,7 +4,7 @@
  <title>CUNYsec</title>
  <link href="http://cunysec.com/atom.xml" rel="self"/>
  <link href="http://cunysec.com/"/>
- <updated>2015-05-29T03:28:58-04:00</updated>
+ <updated>2015-05-29T17:10:15-04:00</updated>
  <id>http://cunysec.com</id>
  <author>
    <name>Nolan Hu</name>
@@ -13,30 +13,64 @@
 
  
  <entry>
-   <title>Hello Naringu!</title>
+   <title>CUNYSec Charter and Introductions</title>
    <link href="http://cunysec.com/naringu/2015/02/21/Hello-Naringu/"/>
    <updated>2015-02-21T00:00:00-05:00</updated>
    <id>http://cunysec.com/naringu/2015/02/21/Hello-Naringu</id>
-   <content type="html">&lt;p&gt;Naringu is a hacker like jekyll dark theme, it&amp;#39;s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Colleagues,&lt;/p&gt;
 
-&lt;h3&gt;Built on Poole&lt;/h3&gt;
+&lt;p&gt;This email is to officially introduce to you the core idea, methodology and future of CUNYSec. The idea is to be transparent with you and at the same time make you aware of the motivations and expectations behind CUNYSec. The layout of this email is as follows:&lt;/p&gt;
 
-&lt;p&gt;Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt;. Poole, and every theme built on it (like Lanyon here) includes the following:&lt;/p&gt;
+&lt;p&gt;Analysis of the present problem being faced by the Cybersecurity and Digital Forensics communities.
+Our plan to make CUNYSec an organization that can create talent who can contribute solutions to some of the issues analyzed on item 1 and how CUNY students can benefit from this strategy.
+Layout of our short term strategy to show our commitment to CUNYSec and CUNY students.
+Introductions of the core members behind CUNYSec. 
+It is our hope that this email can provide you with the information necessary about CUNYSec. We also would like to hear about your background. We hope to accomplish this by hosting future meetings. If there are any questions or concerns please get in touch with any of the core members and we would be very happy to answer your questions or concerns.&lt;/p&gt;
+
+&lt;h2&gt;Cybersecurity and Digital Forensics Community&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Problem:&lt;/strong&gt; It is very common these days to read or hear about the rise of cybercrime. Cybercrime can be in the form of cyber attacks against public and private entities or in the form of conventional crimes committed using digital technology. The reality is that as we depend more on technology these attacks/crimes will become more prevalent and widespread causing a dramatic surge in the demand for well trained cybersecurity professionals and digital forensic investigators.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, the cybersecurity &amp;amp; digital forensics community has emphasized that there is a distinct shortage of people with the talent and skills needed to protect against and investigate such crimes. On the other hand, there’s a lack of awareness and engagement of educational institutions to promote new talent.&lt;/p&gt;
+
+&lt;p&gt;The penetration of technology across various sectors will also mean that such professionals will have to posses multidisciplinary skills and experience; Given that CUNY is the largest urban university in the United States with over half a million students with different backgrounds that come from many different parts of the world and that very few of them participate in events and contests related with cybersecurity and digital forensics, this makes CUNY a very unique and an obvious choice to start such a community.&lt;/p&gt;
+
+&lt;p&gt;The mission of CUNYSec (CUNY Security) is to form a community where CUNY students through awareness, engagement and practice can become active members of the cybersecurity and digital forensics community.  The additional skills, confidence, exposure and extended professional network will provide CUNYSec students with the foundations to jumpstart their cybersecurity and digital forensic careers.&lt;/p&gt;
+
+&lt;h2&gt;CUNYSec Contribution&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Mobile friendly design and development&lt;/li&gt;
-&lt;li&gt;Easily scalable text and component sizing with &lt;code&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
-&lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
-&lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
-&lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
+&lt;li&gt;Conference Attendance - One of the main ways to keep up with the fast changing environment is to attend conferences. Students will attend conferences in groups guided by CUNY alumni. This will make the experience more enjoyable and less intimidating.&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Career Mentoring - CUNYSec will provide mentoring opportunities with CUNY alumni who work in the field providing insight on how to build a professional career.
+Security Research -  Complex technical problems are advanced by research, we’ll provide relevant topics and support for students who want to go beyond the classroom.&lt;/li&gt;
+&lt;li&gt;Networking - Hacking and forensic investigations isn’t purely about bits and bytes. We’ll give students a common ground to discuss security/forensics in person and build relationships they can leverage within CUNY and possibly the rest of their careers.&lt;/li&gt;
+&lt;li&gt;Competing in Capture the Flags Competitions - One of the ways to gain practical skills in Information Security is by competing in CTFs. It can be intimidating to start, but we’ll mentor groups of students and provide direction to maximize their learning experience.&lt;/li&gt;
+&lt;li&gt;Competing in Digital forensic challenges like DFRWS that will open the door towards international recognition.&lt;/li&gt;
+&lt;li&gt;Participation in Open Source Projects- An excellent way for CUNY students to practice their coding skills is by being involved in Open Source projects. This leads to real world experience and contribution to the Open Source community.&lt;/li&gt;
+&lt;li&gt;Email Discussion Lists - A private email list for CUNY students by CUNY students to discuss relevant topics, conferences, competitions, and other activities.&lt;/li&gt;
+&lt;li&gt;Cross College Collaboration - CUNYSec will allow students from different CUNY campuses to work together. This will allow for efficient communication and collaboration among CUNY students from different campuses.&lt;/li&gt;
+&lt;li&gt;Industry Partnerships and Presentations - We’ll bring professional speakers and researchers to provide different perspectives on information security topics and research.&lt;/li&gt;
+&lt;li&gt;Career Opportunities - As CUNYSec members will span across academia and industry we hope to create a mutually beneficial and very unique network for internships and other opportunities. The intention is not to become a job board but it is to effectively share infosec career opportunities within the CUNY community as is seen among others.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3&gt;Download&lt;/h3&gt;
+&lt;h2&gt;Short Term Strategy&lt;/h2&gt;
 
-&lt;p&gt;Naringu is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/ariestiyansyah/naringu&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Encourage students to attend and participate in CSAW 2014.&lt;/li&gt;
+&lt;li&gt;Continue to attend conferences to increase exposure.&lt;/li&gt;
+&lt;li&gt;Schedule round table discussions giving students the opportunity to communicate with the entire community.&lt;/li&gt;
+&lt;li&gt;Recruit other students and get support from CUNY faculty and staff.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Thanks!&lt;/p&gt;
+&lt;h2&gt;Core Members Introductions&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Cesar Vargas&lt;/strong&gt; has successfully participated in many cybersecurity and digital forensics competitions including CSAW and the Sleuthkit hackaton. He graduated on May 2014 from the Master’s degree in Digital Forensics and Cybersecurity program at John Jay College of Criminal Justice. At John Jay he accomplished research related with honeypots, botnets, and malware. Malware research has been his passion for the last 3 years and as as part of his Master’s thesis he created a python framework called Malware Evolution Discovery System (MEDS). MEDS was presented at PyGotham in August 2014 and will be presented at the Open Source Digital Forensics Conference in November 2014. His main motivation for being a part of CUNYSec is to share his knowledge, experience, and passion about cybersecurity related topics with other CUNY members. [cesar@nacolabs.com]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pedro Peralta&lt;/strong&gt; is a Senior Technology Risk Analyst at Goldman Sachs where he performs security architecture reviews and provides risk advice to his clients. Prior to joining Goldman Sachs, he attended New York City College of Technology, where he performed research under Xiangdong LI. He was part of the first cohort of the CUNY Bridge program, a partnership with Goldman Sachs to provide technology internships to CUNY students. He completed two internships before accepting a full time role in at GS. At LaGuardia Community College, Pedro was as an ePortfolio consultant who assisted students in creating digital portfolios. [pedroperalta1@gmail.com | pedro.peralta@mail.citytech.cuny.edu]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sohil Shah&lt;/strong&gt; has over five years of combined experience in Digital Forensics, CyberSecurity, E-Discovery and Risk Management. Mr. Shah has consulted for various law enforcement agencies on high value Digital Forensic cases and has consulted with several High Networth Individuals on risk management in the international arena. Mr. Shah has worked for multiple digital forensic/e-discovery companies in New York. Mr. Shah is currently in his final semester of MS in Digital Forensics &amp;amp; Cyber Security along with the Advanced Certificate in Terrorism Studies. Mr. Shah is also a team leader in the John Jay College Unmanned Aerial Vehicle Project. Mr. Shah has trained with the Department of Homeland Security on various Cyberterrorism programs. Sohil believes in creating a vibrant community of Digital Forensic and Cyber Security Students, Professionals and Alumni to promote sharing of knowledge between Academia and Industry forging a mutually beneficial relationship. [sohil.shah@hotmail.com | sohil.shah@jjay.cuny.edu]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hasan Eray Dogan&lt;/strong&gt; is the Lead Tech for the Digital Forensics and Cybersecurity department labs at John Jay College of Criminal Justice. He completed his Bachelor’s degree in Turkey and came to US as an International Student to study digital forensics and cybersecurity. He has completed his masters in the same department and waiting to receive his MS degree by the end of August,2014. [hasaneray@gmail.com]&lt;/p&gt;
 </content>
  </entry>
  
