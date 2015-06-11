@@ -3,7 +3,7 @@
 This is the landing page for people interested in CUNYsec. The site is built with the Jekyll framework and is hosted on Github. We also have a [Google Groups Page]() where all our announcements are. 
 
 ## Viewing the website locally (based on Mac)
-1. Make sure you have 'jekyll' installed. If not, run `gem install jekyll` on the terminal.
+1. Make sure you have 'jekyll' installed. If not, run `gem install jekyll` on the terminal. (http://jekyllrb.com/docs/installation/)
 2. On the terminal, navigate to the directory of the folder.
 3. In the folder, run `bundle exec jekyll serve` to serve up the local site. 
 4. On your web browser, either go to 'localhost:4000' or '127.0.0.1:4000'.
