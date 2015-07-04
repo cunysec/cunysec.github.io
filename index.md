@@ -1,6 +1,6 @@
 ---
 id: 8
-title: About
+title: Home
 author: nolan
 layout: page
 ---
