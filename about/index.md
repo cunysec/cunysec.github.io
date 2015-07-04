@@ -1,11 +1,11 @@
 ---
 id: 8
 title: About
-author: ariestiyansyah
+author: nolan
 layout: page
 ---
 
-  <img alt="" src="http://en.gravatar.com/userimage/24637430/bd861150ece04c59dff2ca785562b354?size=200" width="200" height="200" />
+  <img width="200" height="200" alt="Logo" src="{{ site.baseurl }}images/cuny-logo-mod1.png">
 
 Hola, my name is __Rizky Ariestiyansyah__ and I’m a __Front End Developer & Business Strategist__ with equal parts interest in business, tax, management development, and writing.
 

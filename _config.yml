@@ -9,10 +9,10 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               CUNYsec
+title:               CUNYSec
 tagline:             'Security community @ CUNY'
 description:         'Community Driven Security'
-url:                 http://cunysec.com
+url:                 /
 baseurl:             /
 paginate:            7
 

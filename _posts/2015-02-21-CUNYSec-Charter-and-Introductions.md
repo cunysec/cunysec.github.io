@@ -2,10 +2,8 @@
 layout: post
 title: CUNYSec Charter and Introductions
 categories:
-- naringu
+- blog
 ---
-
-Colleagues,
 
 This email is to officially introduce to you the core idea, methodology and future of CUNYSec. The idea is to be transparent with you and at the same time make you aware of the motivations and expectations behind CUNYSec. The layout of this email is as follows:
 
