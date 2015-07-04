@@ -7,41 +7,65 @@ layout: page
 
   <img width="200" height="200" alt="Logo" src="{{ site.baseurl }}images/cuny-logo-mod1.png">
 
-Hola, my name is __Rizky Ariestiyansyah__ and I’m a __Front End Developer & Business Strategist__ with equal parts interest in business, tax, management development, and writing.
+###What is cunysec?
 
-I love to explore my brain, by day I am active as student and researcher and by night move like a Ninja. I 'm also leading training, teaching student and providing support to everyone who want to share their knowledge.
+Loose collective of CUNY students, professors, and alumni interested in Digital Forensics and Information Security
 
-I'm active as open source warrior, volunteering in non-profit organization like [Mozilla](https://mozillians.org/en-US/u/ariestiyansyah), [Fedora Project](http://fedoraproject.org), [IlmuBerbagi](http://ilmuberbagi.or.id), [IGOS Nusantara](http://igosnusantara.or.id), [XFCE](http://xfce.org), and [ID-CERT](http://www.cert.or.id). Highly motivated to become part of global movement, love to investing and all about buiness and finance.
+###Why did we start cunysec?
 
-I was worked at several company as full-time employeer and __freelancer__ like
- 
-- [Ministry of Public Work Indonesia](http://litbang.pu.go.id/)
-- [PT. Polatic Informatika Indonesia](http://polatic.co.id)
-- [Evolusi Network Studio](http://evonestudio.com)
+The founding members saw an under representation of CUNY students and alumni in the security field in NY. We plan to change that bringing folks to collaborate and teach each other. CUNY has many sharp minds that just need a little direction. There’s a skills shortage in infosec, we’re building the pipeline.
 
-Some of my happy clients are :
+###Where do we go?
 
-- [Kwarcab Pramuka Tangerang Selatan](http://pramukatangsel.or.id)
-- [PT. Valua Lidi Impresario](http://valuatraining.com) 
-- [PT. Andalan Global Sarana](http://www.properti1001.com)
-- [Pulsagame](http://pulsagame.com)
-- [Brili Agung the Inspiratormaker](http://briliagung.com)
-- [PT. Wise Pasific Venture](https://www.linkedin.com/company/8995616?goback=.anb_3942786_*2_*1_*1_*1_*1_*1&trk=prof-exp-company-name) 
-- Email me for more...
+Lots of security conferences and meetups like OWASP, Blackhat, Defcon, Shmoocon, CTFs, Hackathons etc.
 
-I had been a speaker at this university :
+###How do I subscribe to the mailing list?
 
-- [Gunadarma University ](http://gunadarma.ac.id) 
-- [Trunojoyo University](http://trunojoyo.ac.id) 
-- [National Institute of Science and Technology](http://www.istn.ac.id/) 
-- [Budi Luhur University](http://budiluhur.ac.id) 
-- [LP3I](http://lp3i.ac.id) 
-- [STMIK NUSA MANDIRI](http://nusamandiri.ac.id) 
-- [STMI ( Ministry of Industry )](http://stmi.ac.id) 
-- [STMIK Masa Depan](http://masadepan.ac.id/) 
-- [Satya State University of Indonesia](http://usni.ac.id) 
+This mailing list is primarily for CUNY students and alumni. Please send an email from your cuny.edu address along with a brief introduction and the address where you’d like to recieve messages. Once we sort out everything, we can more broadly distribute information to those outside of CUNY.
 
-## Ping me!
+###What’s discussed on the mailing list?
 
-If you have any questions, comments, or would just like to __PING ME__, please don't hesitate to  [send me an email](mailto:ariestiyansyah.rizky@gmail.com). 
+Upcoming events, security news etc.
 
+###Does cunysec cost anything?
+
+Nope, we did this from the bottom of our hearts
+
+###How can I help (CUNY person or not)?
+
+Speak to student, give talks, contribute content, just be plain helpful.
+
+###Short Term Strategy
+* Encourage students to attend and participate in CSAW 2014.
+* Continue to attend conferences to increase exposure.
+* Schedule round table discussions giving students the opportunity to communicate with the entire community.
+* Recruit other students and get support from CUNY faculty and staff.
+
+###What happens in cunysec?
+* Conference Attendance - One of the main ways to keep up with the fast changing environment is to attend conferences. Students will attend conferences in groups guided by CUNY alumni. This will make the experience more enjoyable and less intimidating.  
+* Career Mentoring - CUNYSec will provide mentoring opportunities with CUNY alumni who work in the field providing insight on how to build your career.
+* Networking - Hacking and forensic investigations aren’t purely about bits and bytes. We’ll give students a common ground to discuss security/forensics in person and build relationships they can leverage within CUNY and possibly the rest of their careers.
+* Email Discussion Lists - A private email list for CUNY students by CUNY students to discuss relevant topics, conferences, competitions, and other activities.
+
+###What we’d like to do more of the following:
+* Security Research -  Complex technical problems are advanced by research, we’ll provide relevant topics and support for students who want to go beyond the classroom.
+* Competing in Capture the Flags Competitions - One of the ways to gain practical skills in Information Security is by competing in CTFs. It can be intimidating to start, but we’ll mentor groups of students and provide direction to maximize their learning experience.
+* Competing in Digital forensic challenges like DFRWS that will open the door towards international recognition.
+Participation in Open Source Projects- An excellent way for CUNY students to practice their coding skills is by being involved in Open Source projects. This leads to real world experience and contribution to the Open Source community.
+* Cross College Collaboration - CUNYSec will allow students from different CUNY campuses to work together. This will allow for efficient communication and collaboration among CUNY students from different campuses.
+* Industry Partnerships and Presentations - We’ll bring professional speakers and researchers to provide different perspectives on information security topics and research.
+* Career Opportunities - As CUNYSec members will span across academia and industry we hope to create a mutually beneficial and very unique network for internships and other opportunities. The intention is not to become a job board but it is to effectively share infosec career opportunities within the CUNY community as is seen among others.
+
+###Who’s behind Cunysec?
+
+Cesar Vargas has successfully participated in many cybersecurity and digital forensics competitions including CSAW and the Sleuthkit hackaton. He graduated on May 2014 from the Master’s degree in Digital Forensics and Cybersecurity program at John Jay College of Criminal Justice. At John Jay he accomplished research related with honeypots, botnets, and malware. Malware research has been his passion for the last 3 years and as as part of his Master’s thesis he created a python framework called Malware Evolution Discovery System (MEDS). MEDS was presented at PyGotham in August 2014 and will be presented at the Open Source Digital Forensics Conference in November 2014. His main motivation for being a part of CUNYSec is to share his knowledge, experience, and passion about cybersecurity related topics with other CUNY members. [cesar@nacolabs.com]
+
+Pedro Peralta, Co-Founder
+Pedro is a Risk Analyst at a financial services company. Pedro attended LaGuardia Community College and New York City College of Technology. 
+Contact: pedroperalta1@gmail.com Twitter: @peralp
+
+Sohil Shah, Co-Founder 
+
+SOhil has has five years of combined experience in Digital Forensics, CyberSecurity, E-Discovery and Risk Management. Mr. Shah has consulted for various law enforcement agencies on high value Digital Forensic cases and has consulted with several High Networth Individuals on risk management in the international arena. Mr. Shah has worked for multiple digital forensic/e-discovery companies in New York. Mr. Shah is currently in his final semester of MS in Digital Forensics & Cyber Security along with the Advanced Certificate in Terrorism Studies. Mr. Shah is also a team leader in the John Jay College Unmanned Aerial Vehicle Project. Mr. Shah has trained with the Department of Homeland Security on various Cyberterrorism programs. Sohil believes in creating a vibrant community of Digital Forensic and Cyber Security Students, Professionals and Alumni to promote sharing of knowledge between Academia and Industry forging a mutually beneficial relationship. [sohil.shah@hotmail.com |sohil.shah@jjay.cuny.edu]
+
+Hasan Eray Dogan is the Lead Tech for the Digital Forensics and Cybersecurity department labs at John Jay College of Criminal Justice. He completed his Bachelor’s degree in Turkey and came to US as an International Student to study digital forensics and cybersecurity. He has completed his masters in the same department and waiting to receive his MS degree by the end of August,2014. [hasaneray@gmail.com]
