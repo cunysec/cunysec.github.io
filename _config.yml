@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               CUNYSec
-tagline:             'Security community @ CUNY'
+tagline:             'Security Community @ CUNY'
 description:         'Community Driven Security'
 url:                 /
 baseurl:             /
