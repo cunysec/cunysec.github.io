@@ -1,34 +1,35 @@
-# Dependencies
-markdown:            redcarpet
-highlighter:         pygments
+---
 
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+port: 4000
+host: 0.0.0.0
+safe: false
 
-# Setup
-title:               CUNYSec
-tagline:             'Security Community @ CUNY'
-description:         'Community Driven Security'
-url:                 /
-baseurl:             /
-paginate:            7
 
-# About/contact
-author:
-  name:              Nolan Hu
-  url:               https://twitter.com/aznspy256
-  email:             aznspy256@gmail.com
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: / ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+highlighter: pygments
 
-# Custom vars
-version:             2.0
 
-# Social Media
-twitter:			http://twitter.com/cunysec
+### content configuration ###
+title:       "CUNYSec"
+keywords:    "SinglePaged, jekyll, template, github, blog, single page"
+description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+source_link: "https://github.com/t413/SinglePaged"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
+google_analytics_key: 
 
-# Theme Author
-theme:
-creator:			Nolan Hu
-codename:			CUNYSec
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
