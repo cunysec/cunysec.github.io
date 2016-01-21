@@ -13,5 +13,6 @@ This is the landing page for people interested in CUNYsec. The site is built wit
 * Find a Jekyll Theme (one that uses bootstrap)
 * Implement Disqus for comments?
 * Should we utilize Meetup for our meetings?
+* Add Slack form with https://github.com/rauchg/slackin and Heroku
 
 Note: Borders = #004F97 Headings = #240099
