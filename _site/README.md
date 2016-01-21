@@ -16,3 +16,5 @@ This is the landing page for people interested in CUNYsec. The site is built wit
 * Add Slack form with https://github.com/rauchg/slackin and Heroku
 
 Note: Borders = #004F97 Headings = #240099
+
+New Color Test = #00BFFE
