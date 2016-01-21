@@ -23,6 +23,8 @@ Lots of security conferences and meetups like OWASP, Blackhat, Defcon, Shmoocon,
 
 This mailing list is primarily for CUNY students and alumni. Please send an email from your cuny.edu address along with a brief introduction and the address where you’d like to recieve messages. Once we sort out everything, we can more broadly distribute information to those outside of CUNY.
 
+<a href="https://groups.google.com/forum/#!forum/cunysec">https://groups.google.com/forum/#!forum/cunysec</a>
+
 ###What’s discussed on the mailing list?
 
 Upcoming events, security news etc.
