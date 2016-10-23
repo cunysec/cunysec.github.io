@@ -1,29 +1,118 @@
+<!doctype html>
 <html>
-<head>
-<title>
-Cunysec Website
-</title>
-</head>
-<body>
-<h2> What is Cunysec? </h2>
-Loose collective of CUNY students, alumni, industry professionals, and professors interested in information security and digital forensics.
-<h2> Why did we start Cunsyec? </h2>
-The founding members saw an under representation of CUNY students and alumni in the security field. We plan to change that through collaboration and mentoring. CUNY has many talented students that could use a little direction. There is a skills shortage in information security, we are building the pipeline.
+  <head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
 
-<h2> What happens in Cunysec?</h2>
-<li> Attending security conferences and meetups like <a href="https://www.owasp.org/index.php/Main_Page">OWASP</a>, Blackhat, Defcon, Shmoocon, CTFs, Hackathons  and so on.</li>
-<li> Networking -We provide students and alumni a common ground to discuss information security in person. We hope these relationships can be leveraged within CUNY and possibly the rest of their careers.</li>
-<li> Email list for annoucements, questions, and discussions.</li>
-<li> Presentations by industry professionals, CUNY alumni, and brave students. </li>
+	<title>CUNYSEC</title>
 
-<h2> How do I join Cunysec? </h2>
-Please send an email from your CUNY address to <a href="mailto:pedroperalta1@gmail.com">Pedro</a>. I'll add you to the <a href="https://groups.google.com/forum/#!forum/cunysec">Google Groups</a>. Once you're on the list, we'll also add you to the <a href="http://cunysec.com/slack.html">slack </a> channel.
+	<link rel="stylesheet" type="text/css" href="static/bootstrap.min.css" />
+	<link rel="stylesheet" type="text/css" href="static/jquery.fullPage.css" />
+	<link rel="stylesheet" type="text/css" href="static/style.css" />
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" />
+  </head>
+  <body>
+	<div id="fullpage">
+	  <div id="header" class="section">
+		<div class="container-fluid">
 
-<h2> How Do I Help?</h2>
-Please reach out to <a href="mailto:pedroperalta1@gmail.com">Pedro</a>! We're still working out the logistics but I'm sure we can figure something out.
+		  <div class="row">
+			<div class="col-sm-12 col-md-12 col-lg-12">
+			  <h1>CUNYSEC</h1>
+			</div>
+		  </div>
+		  
+		  <div class="row">
+			<div class="col-sm-12 col-md-12 col-lg-12">
+			  <p class="subtitle">
+				A loose collective of CUNY students, alumni, industry professionals, and professors interested in information security and digital forensics.
+			  </p>
+			</div>
+		  </div>
 
-<h2> Cunysec on the Internet </h2>
-<a href="https://twitter.com/cunysec">Twitter<a/><br>
-<a href="https://groups.google.com/forum/#!forum/cunysec">Google Groups</a>
-</body>
+		  <div class="row">
+			<div class="col-sm-12 col-md-12 col-lg-12">
+			  <button id="learn-button" type="button" class="btn btn-outline-primary">Learn More</button>
+			  <button id="join-button" type="button" class="btn btn-outline-success">Join Us</button>
+			</div>
+		  </div>
+
+		  <div id="social" class="row">
+			<div class="col-sm-12 col-md-12 col-lg-12">
+			  <a id="google" href="https://groups.google.com/forum/#!forum/cunysec"><img src="static/google.png"></a>
+			  <a id="twitter" href="https://twitter.com/cunysec"><img src="static/twitter.png"></a>
+			</div>
+		  </div>
+
+		</div>
+	  </div>
+
+	  <div id="learn" class="section">
+		<div class="container-fluid">
+
+		  <div class="row">
+			<div class="col-sm-12 col-md-12 col-lg-12">
+			  <h2>Why did we start this?</h2>
+			  <p>
+				The founding members saw an under representation of CUNY students and alumni in the security field. We plan to change that through collaboration and mentoring. CUNY has many talented students that could use a little direction. There is a skills shortage in information security. We are building the pipeline.
+			  </p>
+			</div>
+		  </div>
+
+		  <div class="row">
+			<div class="col-sm-12 col-md-12 col-lg-12">
+			  <h2>What do we do?</h2>
+			  <p>
+				We attend security conferences and meetups, assist in networking students and alumni, and maintain an email list for: announcements, questions, and discussion. Occasionally, presentations are given by industry pros, alumni, and brave students.
+			  </p>
+			</div>
+			<div id="btn-container">
+			  <button id="join2-button" type="button" class="btn btn-outline-success">Join Us!</button>
+			</div>
+		  </div>
+		</div>
+	  </div>
+
+	  <div id="join" class="section">
+		<div class="container-fluid">
+
+		  <div class="row">
+			<div class="col-sm-12 col-md-6 col-md-6">
+			  <h2>Google Group</h2>
+			  <p>
+				An email needs to be sent, from you CUNY email address, to Pedro so that he can send you an invite to the Google Group.
+			  </p>
+			  <a href="mailto:pedroperalta1@gmail.com" class="btn btn-primary">Request Invite</a>
+			</div>
+
+			<div class="col-sm-12 col-md-6 col-md-6">
+			  <h2 id="slack">Slack</h2>
+			  <p>
+				Once you are on the Google Group mailing list, you should request access to our Slack channel here and use your CUNY email address with the form that will come up.
+			  </p>
+			  <a target="_blank" href="https://cunysecslack.herokuapp.com" class="btn btn-primary">Launch Form</a>
+			</div>
+		  </div>
+
+		  <div class="row">
+			<div class="col-sm-12 col-md-12 col-lg-12">
+			  <h2>How can I help?</h2>
+			  <p>
+				Please reach out to Pedro! We're still working out the logistics but I'm sure we can figure something out.
+			  </p>
+			  <a href="mailto:pedroperalta1@gmail.com" class="btn btn-primary">Contact Pedro</a>
+			</div>
+		  </div>
+
+		</div>
+	  </div>
+	</div>
+
+	<script src="static/jquery.min.js"></script>
+	<script src="static/tether.min.js"></script>
+	<script src="static/bootstrap.min.js"></script>
+	<script src="static/jquery.fullPage.min.js"></script>
+	<script src="static/script.js"></script>
+  </body>
 </html>
